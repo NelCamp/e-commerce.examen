@@ -1,0 +1,182 @@
+[
+    {
+        "id": "macbook-01",
+        "titulo": "MacBook Air 2020",
+        "imagen": "./img/macbooks/01.jpg",
+        "categoria": {
+            "nombre": "MacBooks",
+            "id": "macbooks"
+        },
+        "precio": 90
+    },
+    {
+        "id": "macbook-02",
+        "titulo": "MacBook Pro 2020",
+        "imagen": "./img/macbooks/02.jpg",
+        "categoria": {
+            "nombre": "MacBooks",
+            "id": "macbooks"
+        },
+        "precio": 110
+    },
+    {
+        "id": "macbook-03",
+        "titulo": "MacBook Pro 2021",
+        "imagen": "./img/macbooks/03.jpg",
+        "categoria": {
+            "nombre": "Macbooks",
+            "id": "macbooks"
+        },
+        "precio": 145
+    },
+    {
+        "id": "macbook-04",
+        "titulo": "MacBook Pro 2022",
+        "imagen": "./img/macbooks/04.jpg",
+        "categoria": {
+            "nombre": "MacBooks",
+            "id": "macbooks"
+        },
+        "precio": 180
+    },
+    {
+        "id": "macbook-05",
+        "titulo": "MacBook Pro 2023",
+        "imagen": "./img/macbooks/05.jpg",
+        "categoria": {
+            "nombre": "MacBooks",
+            "id": "macbooks"
+        },
+        "precio": 220
+    },
+    {
+        "id": "windows-01",
+        "titulo": "MSI Prestige 13 Evo",
+        "imagen": "./img/windows/01.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 40
+    },
+    {
+        "id": "windows-02",
+        "titulo": "MSI Prestige 14 Evo",
+        "imagen": "./img/windows/02.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 55
+    },
+    {
+        "id": "windows-03",
+        "titulo": "MSI GF63 Thin 11UC",
+        "imagen": "./img/windows/03.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 35
+    },
+    {
+        "id": "windows-04",
+        "titulo": "HP Victus 16-d1021ns",
+        "imagen": "./img/windows/04.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 45
+    },
+    {
+        "id": "windows-05",
+        "titulo": "ASUS TUF Gaming A15 2023",
+        "imagen": "./img/windows/05.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 45
+    },
+    {
+        "id": "windows-06",
+        "titulo": "MSI Cyborg 15 A12VF",
+        "imagen": "./img/windows/06.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 40
+    },
+    {
+        "id": "windows-07",
+        "titulo": "Gigabyte AORUS 15 9KF",
+        "imagen": "./img/windows/07.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 50
+    },
+    {
+        "id": "windows-08",
+        "titulo": "HP OMEN 17-cm2003ns",
+        "imagen": "./img/windows/08.jpg",
+        "categoria": {
+            "nombre": "Windows",
+            "id": "windows"
+        },
+        "precio": 65
+    },
+    {
+        "id": "iphone-01",
+        "titulo": " iPhone 8 64Gb",
+        "imagen": "./img/iphone/01.jpg",
+        "categoria": {
+            "nombre": "iPhone",
+            "id": "iphone"
+        },
+        "precio": 20
+    },
+    {
+        "id": "iphone-02",
+        "titulo": "Apple iPhone X 64GB",
+        "imagen": "./img/iphone/02.jpg",
+        "categoria": {
+            "nombre": "iPhone",
+            "id": "iphone"
+        },
+        "precio": 25
+    },
+    {
+        "id": "iphone-03",
+        "titulo": "iPhone 11 64 GB",
+        "imagen": "./img/iphone/03.jpg",
+        "categoria": {
+            "nombre": "iPhone",
+            "id": "iphone"
+        },
+        "precio": 30
+    },
+    {
+        "id": "iphone-04",
+        "titulo": "iPhone 12 64GB",
+        "imagen": "./img/iphone/04.jpg",
+        "categoria": {
+            "nombre": "iPhone",
+            "id": "iphone"
+        },
+        "precio": 40
+    },
+    {
+        "id": "iphone-05",
+        "titulo": "iPhone 14 Plus 128GB",
+        "imagen": "./img/iphone/05.jpg",
+        "categoria": {
+            "nombre": "iPhone",
+            "id": "iphone"
+        },
+        "precio": 55
+    }
+]
